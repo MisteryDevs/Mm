@@ -32,7 +32,7 @@ class Txt(object):
     SEND_SESSION_MSG = """
 ❪ SEND SESSOIN STRING ❫
 
-☛ Generate Session String form @STRING_SESSION_GENN_BOT
+☛ Generate Session String form @RishuStringBot
 
 
 """
