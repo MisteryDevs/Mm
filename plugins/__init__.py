@@ -4,7 +4,7 @@ routes = web.RouteTableDef()
 
 @routes.get("/", allow_head=True)
 async def root_route_handler(request):
-    return web.json_response("itzdaxx")
+    return web.json_response("Bot is Running powered by @RISHU1286")
 
 
 async def web_server():
